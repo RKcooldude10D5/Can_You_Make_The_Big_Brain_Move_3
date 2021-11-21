@@ -1,0 +1,51 @@
+body{
+    background-image: url("https://www.teahub.io/photos/full/14-144343_moving-desktop-backgrounds-beach-bubbles-background-gif.gif");
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: Arial;
+    color: white;
+}
+input{
+    size: 33px;
+    background: transparent;
+    color: white;
+    border-radius: 20px;
+    border-color: white;
+    border-width: 5;
+}
+button{
+    border-color: white;
+    border-width: 5;
+    background: transparent;
+     border-radius: 20px;
+}
+
+#output{
+    color: white;
+    border-radius: 20px;
+    border-color: white;
+    border-width: 5;
+    background: transparent;
+}
+img{
+    width: 50px;
+    border-radius: 100px;
+}
+#inputcheckbox{
+    size: 33px;
+    background: transparent;
+    color: white;
+    border-radius: 20px;
+    border-color: white;
+    border-width: 5;
+}
+#checkbutton{
+    border-color: white;
+    border-width: 5;
+    background: transparent;
+     border-radius: 20px;
+}
+#h4id{
+    font-family: Arial;
+    color: white;
+}
